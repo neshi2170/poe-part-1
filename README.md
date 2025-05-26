@@ -1,2 +1,2 @@
-# poe-part-1 & 2
+# poe-part-1 
 trinesh
